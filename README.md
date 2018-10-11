@@ -6,7 +6,7 @@
 
 ![](housesbanner.png)
 
-This is the kaggle house prices prediction challenge (https://www.kaggle.com/c/house-prices-advanced-regression-techniques). In the regression problem, I use different model to train the dataset, including Lasso, Elastic Net, Kernel Ridge, SVR, Gradient Boosting Regression, XGBoost, LightGBM. Finally I got a result 0.1155 of Root-Mean-Squared-Error (RMSE) on logarithm of the house price and ranked top 7% (320/4629) on Kaggle.
+This is the kaggle house prices prediction challenge (https://www.kaggle.com/c/house-prices-advanced-regression-techniques). In the regression problem, I use different model to train the dataset, including Lasso, Elastic Net, Kernel Ridge, SVR, Gradient Boosting Regression, XGBoost, LightGBM. Finally I got a result 0.1155 of Root-Mean-Squared-Error (RMSE) on logarithm of the house price and ranked top 7% (320/4629) on Kaggle. 
 
 ## Usage
 
@@ -21,10 +21,14 @@ Windows:
 ```sh
 git clone https://github.com/zhangchi9/Ames-Iowa-house-prices-prediction.git
 ```
+Run house_price_visualization.ipynb for data visualization. 
+
+Run Model.ipynb for model training. The dataset is already included in the repository, no need to download. 
 
 ### Prerequisites
 
 Python 3.6
+
 Jupyter Notebook
 
 ## Meta

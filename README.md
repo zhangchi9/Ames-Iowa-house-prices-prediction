@@ -3,6 +3,7 @@
 [![NPM Version][npm-image]][npm-url]
 [![Build Status][travis-image]][travis-url]
 [![Downloads Stats][npm-downloads]][npm-url]
+[![License: MIT][mit-image]][mit-url]
 
 ![](housesbanner.png)
 
@@ -39,6 +40,8 @@ Distributed under the MIT license. See [LICENSE](https://github.com/zhangchi9/Am
 
 
 <!-- Markdown link & img dfn's -->
+[mit-url]:https://opensource.org/licenses/MIT
+[mit-image]:https://img.shields.io/badge/License-MIT-yellow.svg
 [npm-image]: https://img.shields.io/npm/v/datadog-metrics.svg?style=flat-square
 [npm-url]: https://npmjs.org/package/datadog-metrics
 [npm-downloads]: https://img.shields.io/npm/dm/datadog-metrics.svg?style=flat-square

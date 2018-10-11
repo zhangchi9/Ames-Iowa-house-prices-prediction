@@ -1,5 +1,4 @@
-# Product Name
-> Short blurb about what your product does.
+# Ames Iowa's house prices prediction
 
 [![NPM Version][npm-image]][npm-url]
 [![Build Status][travis-image]][travis-url]

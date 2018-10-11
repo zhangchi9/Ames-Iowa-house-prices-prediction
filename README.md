@@ -6,7 +6,7 @@
 
 ![](housesbanner.png)
 
-This is the kaggle house prices prediction challenge (https://www.kaggle.com/c/house-prices-advanced-regression-techniques). In the regression problem, I use different model to train the dataset, including Lasso, Elastic Net, Kernel Ridge, SVR, Gradient Boosting Regression, XGBoost, LightGBM. Finally I got a result 0.1155 of Root-Mean-Squared-Error (RMSE) on logarithm of the house price and ranked top 7% (320/4629) on Kaggle. 
+This is the kaggle house prices prediction challenge (https://www.kaggle.com/c/house-prices-advanced-regression-techniques). In the regression problem, I use different model to train the dataset, including Lasso, Elastic Net, Kernel Ridge, SVR, Gradient Boosting Regression, XGBoost, LightGBM. Finally I got a result 0.1155 of Root-Mean-Squared-Error (RMSE) on logarithm of the house price and ranked top 7% (320/4629) on Kaggle.
 
 ## Usage
 
@@ -22,20 +22,16 @@ Windows:
 git clone https://github.com/zhangchi9/Ames-Iowa-house-prices-prediction.git
 ```
 
-## Usage example
+### Prerequisites
 
-A few motivating and useful examples of how your product can be used. Spice this up with code blocks and potentially more screenshots.
-
-_For more examples and usage, please refer to the [Wiki][wiki]._
-
+Python 3.6
+Jupyter Notebook
 
 ## Meta
 
-Chi Zhang – [@LinkedIn](https://www.linkedin.com/in/chi-zhang-2018/) – c.zhang@neu.edu
+[Chi Zhang](https://zhangchi9.github.io/) – [@LinkedIn](https://www.linkedin.com/in/chi-zhang-2018/) – c.zhang@neu.edu
 
-Distributed under the MIT license. See ``LICENSE`` for more information.
-
-[https://github.com/zhangchi9/](https://github.com/zhangchi9/)
+Distributed under the MIT license. See [LICENSE](https://github.com/zhangchi9/Ames-Iowa-house-prices-prediction/blob/master/LICENSE) for more information.
 
 
 <!-- Markdown link & img dfn's -->
